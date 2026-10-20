@@ -1,0 +1,91 @@
+IMMERSIVE PORTAL REFABRICATED
+PROPRIETARY LICENSE — ALL RIGHTS RESERVED
+
+Copyright (c) 2026 kole07139. All rights reserved.
+
+1. SCOPE AND OWNERSHIP
+
+This license applies solely to the original software code, original modifications,
+assets, documentation, and other copyrightable material owned by kole07139 and
+created specifically for Immersive Portal Refabricated (the "Proprietary Material").
+No ownership of the original Immersive Portals Mod, q_misc_util, DimLib, or any
+other third-party component is claimed by this notice.
+
+The original upstream software and any other third-party components remain
+subject to their respective copyright notices and licenses, including the
+Apache License, Version 2.0, where applicable. The text of Apache-2.0 is
+included in LICENSES/Apache-2.0.txt. Nothing in this license restricts,
+supersedes, or revokes rights that recipients independently receive under
+those third-party licenses.
+
+2. LIMITED PERMISSION TO USE OFFICIAL RELEASES
+
+Subject to the terms below, recipients are granted a limited, non-exclusive,
+royalty-free permission to download, install, and run unmodified official
+releases of Immersive Portal Refabricated for Minecraft gameplay, including
+client and server use. This permission does not transfer ownership of any
+Proprietary Material.
+
+This permission is subject to applicable law and to any additional rights
+granted to users by the distribution platform through which a release is
+provided, including any rights provided under Modrinth's applicable terms.
+
+3. RIGHTS RESERVED; PROHIBITED ACTS
+
+Except with the copyright owner's prior written permission, or where allowed
+by applicable law, applicable platform terms, or independently applicable
+third-party licenses, no permission is granted to:
+
+(a) redistribute, mirror, rehost, republish, sell, sublicense, or otherwise
+    distribute the Proprietary Material or an official Refabricated release
+    incorporating it;
+(b) distribute modified versions, forks, or other derivative works that
+    incorporate the Proprietary Material;
+(c) copy or incorporate the Proprietary Material into another software
+    project, mod, or product;
+(d) remove or misrepresent applicable proprietary copyright or attribution
+    notices from the Proprietary Material; or
+(e) publish or distribute source code derived from the Proprietary Material
+    without authorization.
+
+No restrictions in this section apply to third-party code to the extent such
+restrictions would conflict with the terms of its own license, including
+Apache-2.0. Nothing here restricts mandatory rights provided by law.
+
+4. UPSTREAM MATERIAL AND ATTRIBUTION
+
+Immersive Portal Refabricated is an unofficial derivative of the Immersive
+Portals Mod project (1.21 branch) originally developed by qouteall and
+contributors, and may include q_misc_util and DimLib components. The
+original works retain their respective copyright and license terms.
+
+When distributing the combined work, the publisher must comply with the
+upstream Apache-2.0 obligations, including distribution of the license text,
+retention of applicable notices, marking modified upstream files, and
+preservation of any required NOTICE attributions. See THIRD_PARTY_NOTICES.md.
+
+5. NO PUBLIC CONTRIBUTION LICENSE
+
+The project is maintained exclusively by kole07139 and does not accept
+external code contributions. Nothing in this license solicits or licenses
+third-party submissions for incorporation into proprietary releases.
+
+6. NO WARRANTY AND LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE PROPRIETARY MATERIAL
+AND OFFICIAL RELEASES ARE PROVIDED "AS IS", WITHOUT WARRANTIES OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT OWNER SHALL
+NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR
+PUNITIVE DAMAGES ARISING FROM THE USE OF THE PROPRIETARY MATERIAL.
+
+7. RESERVATION OF RIGHTS
+
+All rights in the Proprietary Material not expressly granted above are
+reserved by kole07139. Additional permissions may be granted only by the
+applicable rights holder in writing.
+
+This license is not an open-source license. It does not replace the open-source
+licenses applicable to upstream or other third-party materials.

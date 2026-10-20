@@ -1,37 +1,57 @@
-Update: this repo is not being maintained now. Forks are welcomed.
+# Immersive Portal Refabricated
 
-# Immersive Portals Mod
+**A refabricated, modern fork of Immersive Portals.**
 
-It's a Minecraft mod that provides see-through portals and seamless teleportation. It also can create "Non-Euclidean" (Uneuclidean) space effect.
+Immersive Portal Refabricated is a fork of the original [Immersive Portals Mod](https://github.com/iPortalTeam/ImmersivePortalsMod), created and maintained exclusively by **kole07139**.
 
-![immptl.png](https://i.loli.net/2021/09/30/chHMG45dsnZNqep.png)
+The project aims to port and maintain the original immersive portal experience for **Minecraft Java Edition 1.21.4 and newer**, with the long-term support goal.
 
-[On CurseForge](https://www.curseforge.com/minecraft/mc-mods/immersive-portals-mod)     [On Modrinth](https://modrinth.com/mod/immersiveportals)     [Website](https://qouteall.fun/immptl/)
+The work focuses on preserving seamless portal rendering and travel while adapting the implementation to Minecraft mod loaders changes.
 
-This mod changes a lot of underlying Minecraft mechanics. This mod allows the client to load multiple dimensions at the same time and synchronize remote world information(blocks/entities) to client. It can render portal-in-portals. The portal rendering is roughly compatible with some versions of Sodium and Iris. The portal can transform player scale and gravity direction.  [Implementation Details](https://qouteall.fun/immptl/wiki/Implementation-Details)
+**Development status:** Work in progress.
 
-(This is the Fabric version of Immersive Portals. [The Forge version](https://github.com/iPortalTeam/ImmersivePortalsModForNeo))
+### Project Origin & Credits
 
-## API
+Refabricated is based on the **`1.21` branch** of the original Immersive Portals Mod, which is also the public repository used for issues and wiki.
 
-This mod also provides some API for:
+**Original project:** https://github.com/iPortalTeam/ImmersivePortalsMod
 
-* Manage see-through portals
-* Dynamically add dimensions
-* Synchronize remote chunks to client
-* Render the world into GUI
-* Other utilities
+**Original authors:** qouteall and GitHub contributors.
 
-[API description](https://qouteall.fun/immptl/wiki/API-for-Other-Mods.html).
+**DimLib:** https://github.com/iPortalTeam/DimLib
 
-## How to run this code
-https://fabricmc.net/wiki/tutorial:setup
+**Refabricated creator and sole maintainer:** kole07139
 
-## Other
+The original repository was archived on April 21, 2026, and its maintainers welcomed forks.
 
-[Wiki](https://qouteall.fun/immptl/wiki/)
+This project is an independent, unofficial continuation. It is not affiliated with, maintained by, or endorsed by the original developers or iPortalTeam.
 
-[Discord Server](https://discord.gg/BZxgURK)
+## Licensing & Copyright
 
-[Support qouteall on Patreon](https://www.patreon.com/qouteall)
+**Copyright © 2026 kole07139. All rights reserved.**
 
+Immersive Portal Refabricated contains proprietary modifications and independently developed material. You are free to use this project in your modpacks, but **give explict credit** to Kole07139 and **link back to this page in your project description** or README.md.
+
+### Refabricated-Specific Code — All Rights Reserved
+
+Original material owned by kole07139 is protected under the project's proprietary license.
+
+Users are permitted to download, install, and run officially distributed, unmodified builds for Minecraft gameplay, subject to the project's license, applicable law, and the terms of the distribution platform.
+
+Unauthorized redistribution, republication, or incorporation of Refabricated-specific proprietary material into other projects is prohibited, except where separately authorized by an explic written permission from kole07139.
+
+See the repository's `LICENSE` file for the complete proprietary terms.
+
+### Original Code — Apache License 2.0
+
+The inherited implementations of Immersive Portals, `q_misc_util`, and DimLib retain their original copyright ownership and applicable Apache License 2.0 permissions.
+
+All applicable original copyright notices, attribution requirements, and license obligations remain in effect.
+
+The proprietary licensing of Refabricated does not replace, restrict, or revoke the Apache 2.0 permissions granted by the original authors for their code's part.
+
+See `LICENSES/Apache-2.0.txt` and `THIRD_PARTY_NOTICES.md` for further information.
+
+---
+
+*Immersive Portal Refabricated aims to preserve the original seamless portal experience while bringing it to modern Minecraft versions.*
